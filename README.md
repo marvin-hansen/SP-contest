@@ -28,7 +28,7 @@ Choice 1: [Download the 50 Year dataset](https://github.com/marvin-hansen/SP-con
 Choice 2: Get the [sample data processor](https://github.com/marvin-hansen/SP-contest/blob/master/SAMPLE_Data_Proc_V_0_7.ipynb) 
   * The sample data processor contains a download script among other things so all you need to to do is to open it in Colab and run it. 
 
-Choice 3: Take a loot at the Rossmann [data pre-processing](https://nbviewer.jupyter.org/github/fastai/course-v3/blob/master/nbs/dl1/rossman_data_clean.ipynb) and the [tabular model](https://nbviewer.jupyter.org/github/fastai/course-v3/blob/master/nbs/dl1/lesson6-rossmann.ipynb)
+Choice 3: Take a loot at the Rossmann [data processing](https://nbviewer.jupyter.org/github/fastai/course-v3/blob/master/nbs/dl1/rossman_data_clean.ipynb) and the [tabular model](https://nbviewer.jupyter.org/github/fastai/course-v3/blob/master/nbs/dl1/lesson6-rossmann.ipynb)
 
 
 ## Learning competition rules:
