@@ -24,6 +24,7 @@ The performance (in this case val accuracy) will obviously help us gauge the val
 
 ## Getting started: 
 Choice 1: [Download the 50 Year dataset](https://github.com/marvin-hansen/SP-contest/tree/master/Data) 
+
 Choice 2: Get the [sample data processor](https://github.com/marvin-hansen/SP-contest/blob/master/SAMPLE_Data_Proc_V_0_7.ipynb) 
   * The sample data processor contains a download script among other things so all you need to to do is to open it in Colab and run it. 
 
