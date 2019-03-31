@@ -26,7 +26,7 @@ The performance (in this case val accuracy) will obviously help us gauge the val
 Choice 1: [Download the 50 Year dataset](https://github.com/marvin-hansen/SP-contest/tree/master/Data)  
 
 Choice 2: Get the [sample data loader notebook](https://github.com/marvin-hansen/SP-contest/blob/master/SP500.ipynb)
-   * The sample data loader contains only scripts to download and split the data into train and test without any fearture engineering.
+   * The sample data loader contains only scripts to download and split the data into train and test without any fearture engineering. By default, the last 30 days are used as vaildation dataset. Set valid to zero in case no validation dataset is required.  
 
 Choice 3: Get the [sample data processor notebook](https://github.com/marvin-hansen/SP-contest/blob/master/SAMPLE_Data_Proc_V_0_7.ipynb) 
   * The sample data processor contains a data loader, several sample feature generators, and other tools for feature engineering. 
