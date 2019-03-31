@@ -1,4 +1,4 @@
-# Fast.ai Time Series Learning Competition: S&P500 
+# Fast.ai Time Series Learning Challange: S&P500 
 
 Welcome to the second fast.ai learning challange. Unlike traditional Kaggle competitions, 
 the main goal of a learning competition is learn and share our knowledge within the fastai community by fostering collaboration.
