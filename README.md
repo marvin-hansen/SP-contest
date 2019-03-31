@@ -25,7 +25,10 @@ The performance (in this case val accuracy) will obviously help us gauge the val
 ## Getting started: 
 Choice 1: [Download the 50 Year dataset](https://github.com/marvin-hansen/SP-contest/tree/master/Data)  
 
-Choice 2: Get the [sample data processor](https://github.com/marvin-hansen/SP-contest/blob/master/SAMPLE_Data_Proc_V_0_7.ipynb) 
+Choice 2: Get the [sample data loader notebook](https://github.com/marvin-hansen/SP-contest/blob/master/SP500.ipynb)
+   * The sample data loader only contains a script to download and split the data into train and test without any engineering.
+
+Choice 3: Get the [sample data processor notebook](https://github.com/marvin-hansen/SP-contest/blob/master/SAMPLE_Data_Proc_V_0_7.ipynb) 
   * The sample data processor contains a download script among other things so all you need to to do is to open it in Colab and run it. 
 
 Choice 3: Take a loot at the Rossmann [data processing](https://nbviewer.jupyter.org/github/fastai/course-v3/blob/master/nbs/dl1/rossman_data_clean.ipynb) and the [tabular model](https://nbviewer.jupyter.org/github/fastai/course-v3/blob/master/nbs/dl1/lesson6-rossmann.ipynb)
