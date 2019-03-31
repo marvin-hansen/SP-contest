@@ -3,7 +3,7 @@
 Welcome to the second fast.ai learning challange. Unlike traditional Kaggle competitions, 
 the main goal of a learning competition is learn and share our knowledge within the fastai community by fostering collaboration.
 
-Close in spirit to the [first one about earthquakes](https://forums.fast.ai/t/welcome-to-our-first-time-series-learning-competition-earthquakes/30951), 
+Close in spirit to the [first challange about earthquakes](https://forums.fast.ai/t/welcome-to-our-first-time-series-learning-competition-earthquakes/30951), 
 we believe that by focusing our work on the same dataset, we will be able to learn and share our knowledge with the DL/ML community in a very practical way.   
 
 ## Objective: 
@@ -48,6 +48,17 @@ and share your notebook/ gist with your results (if you have any idea how to do 
 5. You can use any technical approaches to this problem (deep learning or not, fastai or not).
 
 **Award:**  Learning, contribution, recognition and ... (any more ideas?)  
+
+## Ideas and areas of exploration:
+* CoordConv ([Paper](https://arxiv.org/pdf/1807.03247.pdf)) ([Repo](https://github.com/mkocabas/CoordConv-pytorch)) ([Ueber](https://eng.uber.com/coordconv/))
+* [Pytorch + pyro](https://forums.fast.ai/t/time-series-sequential-data-study-group/29686/182)
+*  [Deep Neural Network Ensembles for Time Series Classification: SOTA](https://forums.fast.ai/t/time-series-sequential-data-study-group/29686/168)
+* [Bayesian Convolutional Neural Network](https://github.com/kumar-shridhar/Master-Thesis-BayesianCNN)
+* [Hinton’s Capsule Networks](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)
+* Time series feature engineering with **[tsfresh](https://github.com/blue-yonder/tsfresh)**
+* [Transfer learning](https://forums.fast.ai/t/time-series-sequential-data-study-group/29686/175)
+* And more, please add in the comments 
+
 
 
 We look forward to having you participate in this competition. Thanks!
